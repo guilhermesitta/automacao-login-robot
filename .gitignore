@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.log
+*.pyc
+output.xml
+report.html
+log.html
